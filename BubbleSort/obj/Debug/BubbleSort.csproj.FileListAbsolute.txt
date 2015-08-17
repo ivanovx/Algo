@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2015\Projects\Algo\BubbleSort\bin\Debug\BubbleSort.exe.config
+c:\users\ivan\documents\visual studio 2015\Projects\Algo\BubbleSort\bin\Debug\BubbleSort.exe
+c:\users\ivan\documents\visual studio 2015\Projects\Algo\BubbleSort\bin\Debug\BubbleSort.pdb
+c:\users\ivan\documents\visual studio 2015\Projects\Algo\BubbleSort\obj\Debug\BubbleSort.exe
+c:\users\ivan\documents\visual studio 2015\Projects\Algo\BubbleSort\obj\Debug\BubbleSort.pdb
