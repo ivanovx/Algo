@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmstrongNumber", "Armstron
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{26A3D862-F5E4-44B0-ADF8-217AC140DDE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{97E272F0-9F14-41C6-944D-CCF98AD7DB25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{CF73E1BC-7EC6-4FF8-910A-C35A35F974E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{26A3D862-F5E4-44B0-ADF8-217AC140DDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26A3D862-F5E4-44B0-ADF8-217AC140DDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26A3D862-F5E4-44B0-ADF8-217AC140DDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E272F0-9F14-41C6-944D-CCF98AD7DB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E272F0-9F14-41C6-944D-CCF98AD7DB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E272F0-9F14-41C6-944D-CCF98AD7DB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E272F0-9F14-41C6-944D-CCF98AD7DB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF73E1BC-7EC6-4FF8-910A-C35A35F974E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF73E1BC-7EC6-4FF8-910A-C35A35F974E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF73E1BC-7EC6-4FF8-910A-C35A35F974E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF73E1BC-7EC6-4FF8-910A-C35A35F974E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
