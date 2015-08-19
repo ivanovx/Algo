@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmstrongNumber", "ArmstrongNumber\ArmstrongNumber.csproj", "{CF99B8C3-D6C8-4C97-80BF-EF7AA7E2A0D5}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{97E272F0-9F14-41C6-944D-CCF98AD7DB25}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{CF73E1BC-7EC6-4FF8-910A-C35A35F974E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goro", "Goro\Goro.csproj", "{F1035D11-35A1-42A0-9782-B7C0A5EC717D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CF73E1BC-7EC6-4FF8-910A-C35A35F974E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF73E1BC-7EC6-4FF8-910A-C35A35F974E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF73E1BC-7EC6-4FF8-910A-C35A35F974E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1035D11-35A1-42A0-9782-B7C0A5EC717D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1035D11-35A1-42A0-9782-B7C0A5EC717D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1035D11-35A1-42A0-9782-B7C0A5EC717D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1035D11-35A1-42A0-9782-B7C0A5EC717D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
