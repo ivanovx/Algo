@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "Fibonac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goro", "Goro\Goro.csproj", "{F1035D11-35A1-42A0-9782-B7C0A5EC717D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieve", "Sieve\Sieve.csproj", "{9AD83A64-C21B-4BEB-B0D6-CDE6DE1BCE15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F1035D11-35A1-42A0-9782-B7C0A5EC717D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1035D11-35A1-42A0-9782-B7C0A5EC717D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1035D11-35A1-42A0-9782-B7C0A5EC717D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD83A64-C21B-4BEB-B0D6-CDE6DE1BCE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD83A64-C21B-4BEB-B0D6-CDE6DE1BCE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD83A64-C21B-4BEB-B0D6-CDE6DE1BCE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD83A64-C21B-4BEB-B0D6-CDE6DE1BCE15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
