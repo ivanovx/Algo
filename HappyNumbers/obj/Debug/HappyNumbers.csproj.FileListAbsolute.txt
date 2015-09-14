@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\GitHub\Algo\HappyNumbers\bin\Debug\HappyNumbers.exe.config
+C:\Users\Ivan\Documents\GitHub\Algo\HappyNumbers\bin\Debug\HappyNumbers.exe
+C:\Users\Ivan\Documents\GitHub\Algo\HappyNumbers\bin\Debug\HappyNumbers.pdb
+C:\Users\Ivan\Documents\GitHub\Algo\HappyNumbers\obj\Debug\HappyNumbers.exe
+C:\Users\Ivan\Documents\GitHub\Algo\HappyNumbers\obj\Debug\HappyNumbers.pdb
