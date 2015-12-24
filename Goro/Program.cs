@@ -8,7 +8,7 @@ namespace Goro
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.Write("Input a: ");
 
@@ -35,19 +35,22 @@ namespace Goro
                     a--;
                     continue;
                 }
-                if (b >= a && b >= c && b >= 1)
+                
+				if (b >= a && b >= c && b >= 1)
                 {
                     result += b;
                     b--;
                     continue;
                 }
-                if (c >= b && c >= a && c >= 1)
+                
+				if (c >= b && c >= a && c >= 1)
                 {
                     result += c;
                     c--;
                     continue;
                 }
             }
+			
             Console.WriteLine("Result is: " + result);
         }
     }

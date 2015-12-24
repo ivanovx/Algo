@@ -2,7 +2,7 @@
 
 class Triangle
 {
-    static void Main()
+    public static void Main()
     {
         Console.Write("Input n: ");
 

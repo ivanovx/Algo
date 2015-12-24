@@ -1,9 +1,10 @@
-﻿namespace BubbleSort
+﻿using System;
+	
+namespace BubbleSort
 {
-    using System;
     class BubbleSort
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             int[] intArray = new int[] { 5, 90, 35, 45, 150, 3 };
@@ -23,6 +24,7 @@
                 Console.WriteLine(intArray[i]);
             }
         }
+		
         private static void bubbleSort(int[] intArray)
         {
             int n = intArray.Length;

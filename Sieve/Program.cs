@@ -11,11 +11,13 @@ namespace Sieve
         public static void Main(string[] args)
         {
             Console.Write("Input one number: ");
+			
             int input = int.Parse(Console.ReadLine());
-            Console.WriteLine(LastScratch(input));
+            
+			Console.WriteLine(LastScratch(input));
         }
 
-        public static int LastScratch(int input)
+        private static int LastScratch(int input)
         {
             bool[] comps = new bool[(int)Math.Sqrt(input) + 4];
 
@@ -57,6 +59,7 @@ namespace Sieve
                         break;
                     }
                 }
+				
                 if (bad)
                 {
                     mult--;
@@ -66,6 +69,7 @@ namespace Sieve
                     break;
                 }
             }
+			
             return primes[primes.Count - 1] * mult;
         } 
     }
