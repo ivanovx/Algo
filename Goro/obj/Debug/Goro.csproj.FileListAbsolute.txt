@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\GitHub\Algo\Goro\bin\Debug\Goro.exe.config
-C:\Users\Ivan\Documents\GitHub\Algo\Goro\bin\Debug\Goro.exe
-C:\Users\Ivan\Documents\GitHub\Algo\Goro\bin\Debug\Goro.pdb
-C:\Users\Ivan\Documents\GitHub\Algo\Goro\obj\Debug\Goro.exe
-C:\Users\Ivan\Documents\GitHub\Algo\Goro\obj\Debug\Goro.pdb
-C:\Users\Ivan\Documents\GitHub\Algo\Goro\obj\Debug\Goro.csprojResolveAssemblyReference.cache

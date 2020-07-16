@@ -1,5 +1,0 @@
-C:\Users\Ivan\Documents\GitHub\Algo\Sieve\bin\Debug\Sieve.exe.config
-C:\Users\Ivan\Documents\GitHub\Algo\Sieve\bin\Debug\Sieve.exe
-C:\Users\Ivan\Documents\GitHub\Algo\Sieve\bin\Debug\Sieve.pdb
-C:\Users\Ivan\Documents\GitHub\Algo\Sieve\obj\Debug\Sieve.exe
-C:\Users\Ivan\Documents\GitHub\Algo\Sieve\obj\Debug\Sieve.pdb
