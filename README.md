@@ -1,3 +1,3 @@
 # Algorithms
 
-Some algorithmic problems solved on C language.
+Some algorithmic problems solved with C and C# languages.
